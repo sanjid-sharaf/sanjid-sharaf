@@ -17,35 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <!-- Custom CSS for rounded boxes and spacing, using HTML in markdown -->
-<style>
-  .lang-tools-list {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 18px; /* More even spacing between images */
-  }
-  .lang-tool-item {
-    background: #fff;
-    border-radius: 18px;
-    border: 1px solid #eaeaea;
-    box-shadow: 0 1px 2px rgba(0,0,0,0.04);
-    padding: 10px 12px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: box-shadow 0.15s;
-  }
-  .lang-tool-item:hover {
-    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-  }
-  .lang-tool-img {
-    width: 40px;
-    height: 40px;
-    object-fit: contain;
-    background: none;
-    border-radius: 10px;
-    margin: 0;
-  }
-</style>
+
 
 <div class="lang-tools-list">
   <div class="lang-tool-item"><a href="https://developer.android.com" target="_blank"><img class="lang-tool-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" /></a></div>
