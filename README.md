@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjid-sharaf&label=Profile%20views&color=0e75b6&style=flat" alt="sanjid-sharaf" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjid-sharaf" alt="sanjid-sharaf" /></a> </p>
-
 - 🔭 I’m currently working on [A Python Spire Business Software API Client](https://pypi.org/project/spyreapi/)
 
 - 🌱 I’m currently learning **React Native**
@@ -22,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjid-sharaf&show_icons=true&locale=en&layout=compact" alt="sanjid-sharaf" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjid-sharaf&show_icons=true&locale=en" alt="sanjid-sharaf" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjid-sharaf&" alt="sanjid-sharaf" /></p>
