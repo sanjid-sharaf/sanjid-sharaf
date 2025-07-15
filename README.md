@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sanjid Sharaf</h1>
-<h3 align="center">A passionate software developer and Computer Science undergrad at Toronto Metropolitan University</h3>
+<h1 align="left">Hi 👋, I'm Sanjid Sharaf</h1>
+<h3 align="left">A passionate software developer and Computer Science undergrad at Toronto Metropolitan University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjid-sharaf&label=Profile%20views&color=0e75b6&style=flat" alt="sanjid-sharaf" /> </p>
 
@@ -15,8 +15,62 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjid-sharaf&show_icons=true&locale=en&layout=compact&theme=gruvbox_light" alt="sanjid-sharaf" /></p>
+<!-- Custom CSS for rounded boxes and spacing, using HTML in markdown -->
+<style>
+  .lang-tools-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 18px; /* More even spacing between images */
+  }
+  .lang-tool-item {
+    background: #fff;
+    border-radius: 18px;
+    border: 1px solid #eaeaea;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+    padding: 10px 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: box-shadow 0.15s;
+  }
+  .lang-tool-item:hover {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  }
+  .lang-tool-img {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+    background: none;
+    border-radius: 10px;
+    margin: 0;
+  }
+</style>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjid-sharaf&show_icons=true&locale=en&theme=gruvbox_light" alt="sanjid-sharaf" /></p>
+<div class="lang-tools-list">
+  <div class="lang-tool-item"><a href="https://developer.android.com" target="_blank"><img class="lang-tool-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" /></a></div>
+  <div class="lang-tool-item"><a href="https://www.djangoproject.com/" target="_blank"><img class="lang-tool-img" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" /></a></div>
+  <div class="lang-tool-item"><a href="https://www.docker.com/" target="_blank"><img class="lang-tool-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" /></a></div>
+  <div class="lang-tool-item"><a href="https://elixir-lang.org" target="_blank"><img class="lang-tool-img" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" /></a></div>
+  <div class="lang-tool-item"><a href="https://www.figma.com/" target="_blank"><img class="lang-tool-img" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" /></a></div>
+  <div class="lang-tool-item"><a href="https://flask.palletsprojects.com/" target="_blank"><img class="lang-tool-img" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" /></a></div>
+  <div class="lang-tool-item"><a href="https://www.haskell.org/" target="_blank"><img class="lang-tool-img" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" /></a></div>
+  <div class="lang-tool-item"><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img class="lang-tool-img" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" /></a></div>
+  <div class="lang-tool-item"><a href="https://www.java.com" target="_blank"><img class="lang-tool-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" /></a></div>
+  <div class="lang-tool-item"><a href="https://kotlinlang.org" target="_blank"><img class="lang-tool-img" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" /></a></div>
+  <div class="lang-tool-item"><a href="https://www.mysql.com/" target="_blank"><img class="lang-tool-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" /></a></div>
+  <div class="lang-tool-item"><a href="https://pandas.pydata.org/" target="_blank"><img class="lang-tool-img" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" /></a></div>
+  <div class="lang-tool-item"><a href="https://www.photoshop.com/en" target="_blank"><img class="lang-tool-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" /></a></div>
+  <div class="lang-tool-item"><a href="https://www.postgresql.org" target="_blank"><img class="lang-tool-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" /></a></div>
+  <div class="lang-tool-item"><a href="https://www.python.org" target="_blank"><img class="lang-tool-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" /></a></div>
+  <div class="lang-tool-item"><a href="https://reactjs.org/" target="_blank"><img class="lang-tool-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" /></a></div>
+  <div class="lang-tool-item"><a href="https://www.selenium.dev" target="_blank"><img class="lang-tool-img" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" /></a></div>
+  <div class="lang-tool-item"><a href="https://unity.com/" target="_blank"><img class="lang-tool-img" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" /></a></div>
+  <div class="lang-tool-item"><a href="https://unrealengine.com/" target="_blank"><img class="lang-tool-img" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" /></a></div>
+</div>
+
+<br clear="all"/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjid-sharaf&show_icons=true&locale=en&layout=compact&theme=solarized_light" alt="sanjid-sharaf" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjid-sharaf&show_icons=true&locale=en&theme=solarized_light" alt="sanjid-sharaf" /></p>
